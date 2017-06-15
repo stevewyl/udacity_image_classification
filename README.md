@@ -3,7 +3,7 @@ Second project for CIFAR-10 image classification task
 
 acc:0.7253
 
-future improvement
+future improvement:
 
 1. use deeper and more complicated network 
 2. change the initialization way of weights
